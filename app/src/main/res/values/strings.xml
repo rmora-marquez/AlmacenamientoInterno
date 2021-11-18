@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Almacenamiento Interno</string>
+    <string name="nombre_archivo">Nombre del archivo:</string>
+    <string name="guardar">Guardar</string>
+    <string name="abrir">Abrir</string>
+    <string name="datos">Contenido del archivo</string>
+</resources>
